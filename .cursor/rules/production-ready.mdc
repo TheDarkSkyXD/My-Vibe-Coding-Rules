@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Dont add assumptions about the code we are developing for production, we cannot add comments like the next one.
+
+// In a real scenario, ID generation (e.g., UUID) would happen here or in the repository
+
+We should develop code ready to ship to production.
